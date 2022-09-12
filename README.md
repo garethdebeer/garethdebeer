@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gareth de Beer (@garethdebeer)
 
-  I'm currently working for in.house.media (IHM Ltd). My linked in profile can be found here: https://www.linkedin.com/in/gareth-de-beer-ambcs-ab0a56156/
+  I'm currently working for yawt.digital. My linked in profile can be found here: https://www.linkedin.com/in/gareth-de-beer-ambcs-ab0a56156/
 
 - 👀 I’m interested in ...
 
