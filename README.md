@@ -1,16 +1,11 @@
 - 👋 Hi, I’m Gareth de Beer (@garethdebeer)
 
-  I'm currently working for yawt.digital. My linked in profile can be found here: https://www.linkedin.com/in/gareth-de-beer-ambcs-ab0a56156/
+  I'm currently working for debeer.digital. My LinkedIn profile can be found here: https://www.linkedin.com/in/gareth-de-beer-ambcs-ab0a56156/
 
 - 👀 I’m interested in ...
 
   Laravel and other PHP projects
 
-<!---
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
---->
-- 📫 How to reach me ...
  
   You can reach me by sending me a message on linkedin, or shooting across an email to gdebeer[at]hotmail.co.uk.
 
